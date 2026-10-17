@@ -1,0 +1,502 @@
+[
+  {
+    "region": "Alabama",
+    "district": "Jefferson",
+    "city": "Birmingham",
+    "covered_area": ["Hoover", "Homewood", "Mountain Brook", "Vestavia Hills"],
+    "status": "active",
+    "flowchart": "https://example.com/alabama-flowchart.png",
+    "longitude": -86.8025,
+    "latitude": 33.5207
+  },
+  {
+    "region": "Alaska",
+    "district": "Anchorage",
+    "city": "Anchorage",
+    "covered_area": ["Eagle River", "Girdwood", "Chugiak", "Turnagain"],
+    "status": "active",
+    "flowchart": "https://example.com/alaska-flowchart.png",
+    "longitude": -149.9003,
+    "latitude": 61.2181
+  },
+  {
+    "region": "Arizona",
+    "district": "Maricopa",
+    "city": "Phoenix",
+    "covered_area": ["Scottsdale", "Tempe", "Mesa", "Glendale"],
+    "status": "active",
+    "flowchart": "https://example.com/arizona-flowchart.png",
+    "longitude": -112.074,
+    "latitude": 33.4484
+  },
+  {
+    "region": "Arkansas",
+    "district": "Pulaski",
+    "city": "Little Rock",
+    "covered_area": ["North Little Rock", "Maumelle", "Benton", "Bryant"],
+    "status": "active",
+    "flowchart": "https://example.com/arkansas-flowchart.png",
+    "longitude": -92.2896,
+    "latitude": 34.7465
+  },
+  {
+    "region": "California",
+    "district": "Los Angeles",
+    "city": "Los Angeles",
+    "covered_area": ["Santa Monica", "Pasadena", "Glendale", "Burbank"],
+    "status": "active",
+    "flowchart": "https://example.com/california-flowchart.png",
+    "longitude": -118.2437,
+    "latitude": 34.0522
+  },
+  {
+    "region": "Colorado",
+    "district": "Denver",
+    "city": "Denver",
+    "covered_area": ["Aurora", "Lakewood", "Arvada", "Westminster"],
+    "status": "active",
+    "flowchart": "https://example.com/colorado-flowchart.png",
+    "longitude": -104.9903,
+    "latitude": 39.7392
+  },
+  {
+    "region": "Connecticut",
+    "district": "Hartford",
+    "city": "Hartford",
+    "covered_area": ["West Hartford", "East Hartford", "Windsor", "Newington"],
+    "status": "active",
+    "flowchart": "https://example.com/connecticut-flowchart.png",
+    "longitude": -72.682,
+    "latitude": 41.7658
+  },
+  {
+    "region": "Delaware",
+    "district": "New Castle",
+    "city": "Wilmington",
+    "covered_area": ["Newark", "Bear", "Middletown", "Elsmere"],
+    "status": "active",
+    "flowchart": "https://example.com/delaware-flowchart.png",
+    "longitude": -75.5466,
+    "latitude": 39.7391
+  },
+  {
+    "region": "Florida",
+    "district": "Miami-Dade",
+    "city": "Miami",
+    "covered_area": ["Miami Beach", "Hialeah", "Coral Gables", "Homestead"],
+    "status": "active",
+    "flowchart": "https://example.com/florida-flowchart.png",
+    "longitude": -80.1918,
+    "latitude": 25.7617
+  },
+  {
+    "region": "Georgia",
+    "district": "Fulton",
+    "city": "Atlanta",
+    "covered_area": ["Sandy Springs", "Roswell", "Marietta", "Decatur"],
+    "status": "active",
+    "flowchart": "https://example.com/georgia-flowchart.png",
+    "longitude": -84.388,
+    "latitude": 33.749
+  },
+  {
+    "region": "Hawaii",
+    "district": "Honolulu",
+    "city": "Honolulu",
+    "covered_area": ["Pearl City", "Kailua", "Waipahu", "Kapolei"],
+    "status": "active",
+    "flowchart": "https://example.com/hawaii-flowchart.png",
+    "longitude": -157.8583,
+    "latitude": 21.3069
+  },
+  {
+    "region": "Idaho",
+    "district": "Ada",
+    "city": "Boise",
+    "covered_area": ["Meridian", "Nampa", "Eagle", "Kuna"],
+    "status": "active",
+    "flowchart": "https://example.com/idaho-flowchart.png",
+    "longitude": -116.2023,
+    "latitude": 43.615
+  },
+  {
+    "region": "Illinois",
+    "district": "Cook",
+    "city": "Chicago",
+    "covered_area": ["Evanston", "Oak Park", "Skokie", "Cicero"],
+    "status": "active",
+    "flowchart": "https://example.com/illinois-flowchart.png",
+    "longitude": -87.6298,
+    "latitude": 41.8781
+  },
+  {
+    "region": "Indiana",
+    "district": "Marion",
+    "city": "Indianapolis",
+    "covered_area": ["Carmel", "Fishers", "Greenwood", "Lawrence"],
+    "status": "active",
+    "flowchart": "https://example.com/indiana-flowchart.png",
+    "longitude": -86.1581,
+    "latitude": 39.7684
+  },
+  {
+    "region": "Iowa",
+    "district": "Polk",
+    "city": "Des Moines",
+    "covered_area": ["West Des Moines", "Ankeny", "Urbandale", "Clive"],
+    "status": "active",
+    "flowchart": "https://example.com/iowa-flowchart.png",
+    "longitude": -93.6091,
+    "latitude": 41.5868
+  },
+  {
+    "region": "Kansas",
+    "district": "Sedgwick",
+    "city": "Wichita",
+    "covered_area": ["Derby", "Andover", "Haysville", "Goddard"],
+    "status": "active",
+    "flowchart": "https://example.com/kansas-flowchart.png",
+    "longitude": -97.3301,
+    "latitude": 37.6872
+  },
+  {
+    "region": "Kentucky",
+    "district": "Jefferson",
+    "city": "Louisville",
+    "covered_area": ["Jeffersontown", "St. Matthews", "Shively", "Fern Creek"],
+    "status": "active",
+    "flowchart": "https://example.com/kentucky-flowchart.png",
+    "longitude": -85.7585,
+    "latitude": 38.2527
+  },
+  {
+    "region": "Louisiana",
+    "district": "Orleans",
+    "city": "New Orleans",
+    "covered_area": ["Metairie", "Kenner", "Chalmette", "Gretna"],
+    "status": "active",
+    "flowchart": "https://example.com/louisiana-flowchart.png",
+    "longitude": -90.0715,
+    "latitude": 29.9511
+  },
+  {
+    "region": "Maine",
+    "district": "Cumberland",
+    "city": "Portland",
+    "covered_area": ["South Portland", "Westbrook", "Falmouth", "Scarborough"],
+    "status": "active",
+    "flowchart": "https://example.com/maine-flowchart.png",
+    "longitude": -70.2553,
+    "latitude": 43.6591
+  },
+  {
+    "region": "Maryland",
+    "district": "Baltimore City",
+    "city": "Baltimore",
+    "covered_area": ["Towson", "Columbia", "Catonsville", "Dundalk"],
+    "status": "active",
+    "flowchart": "https://example.com/maryland-flowchart.png",
+    "longitude": -76.6122,
+    "latitude": 39.2904
+  },
+  {
+    "region": "Massachusetts",
+    "district": "Suffolk",
+    "city": "Boston",
+    "covered_area": ["Cambridge", "Somerville", "Brookline", "Quincy"],
+    "status": "active",
+    "flowchart": "https://example.com/massachusetts-flowchart.png",
+    "longitude": -71.0589,
+    "latitude": 42.3601
+  },
+  {
+    "region": "Michigan",
+    "district": "Wayne",
+    "city": "Detroit",
+    "covered_area": ["Dearborn", "Warren", "Livonia", "Southfield"],
+    "status": "active",
+    "flowchart": "https://example.com/michigan-flowchart.png",
+    "longitude": -83.0458,
+    "latitude": 42.3314
+  },
+  {
+    "region": "Minnesota",
+    "district": "Hennepin",
+    "city": "Minneapolis",
+    "covered_area": ["St. Paul", "Bloomington", "Edina", "Richfield"],
+    "status": "active",
+    "flowchart": "https://example.com/minnesota-flowchart.png",
+    "longitude": -93.265,
+    "latitude": 44.9778
+  },
+  {
+    "region": "Mississippi",
+    "district": "Hinds",
+    "city": "Jackson",
+    "covered_area": ["Clinton", "Ridgeland", "Madison", "Pearl"],
+    "status": "active",
+    "flowchart": "https://example.com/mississippi-flowchart.png",
+    "longitude": -90.1848,
+    "latitude": 32.2988
+  },
+  {
+    "region": "Missouri",
+    "district": "Jackson",
+    "city": "Kansas City",
+    "covered_area": ["Independence", "Lee's Summit", "Blue Springs", "Liberty"],
+    "status": "active",
+    "flowchart": "https://example.com/missouri-flowchart.png",
+    "longitude": -94.5786,
+    "latitude": 39.0997
+  },
+  {
+    "region": "Montana",
+    "district": "Yellowstone",
+    "city": "Billings",
+    "covered_area": ["Laurel", "Lockwood", "Worden", "Huntley"],
+    "status": "active",
+    "flowchart": "https://example.com/montana-flowchart.png",
+    "longitude": -108.5007,
+    "latitude": 45.7833
+  },
+  {
+    "region": "Nebraska",
+    "district": "Douglas",
+    "city": "Omaha",
+    "covered_area": ["Bellevue", "Papillion", "La Vista", "Ralston"],
+    "status": "active",
+    "flowchart": "https://example.com/nebraska-flowchart.png",
+    "longitude": -95.9979,
+    "latitude": 41.2565
+  },
+  {
+    "region": "Nevada",
+    "district": "Clark",
+    "city": "Las Vegas",
+    "covered_area": ["Henderson", "North Las Vegas", "Summerlin", "Paradise"],
+    "status": "active",
+    "flowchart": "https://example.com/nevada-flowchart.png",
+    "longitude": -115.1398,
+    "latitude": 36.1699
+  },
+  {
+    "region": "New Hampshire",
+    "district": "Hillsborough",
+    "city": "Manchester",
+    "covered_area": ["Nashua", "Bedford", "Merrimack", "Hooksett"],
+    "status": "active",
+    "flowchart": "https://example.com/new-hampshire-flowchart.png",
+    "longitude": -71.4548,
+    "latitude": 42.9956
+  },
+  {
+    "region": "New Jersey",
+    "district": "Essex",
+    "city": "Newark",
+    "covered_area": ["Jersey City", "Elizabeth", "Paterson", "Edison"],
+    "status": "active",
+    "flowchart": "https://example.com/new-jersey-flowchart.png",
+    "longitude": -74.1724,
+    "latitude": 40.7357
+  },
+  {
+    "region": "New Mexico",
+    "district": "Bernalillo",
+    "city": "Albuquerque",
+    "covered_area": ["Rio Rancho", "Los Lunas", "Corrales", "Bernalillo"],
+    "status": "active",
+    "flowchart": "https://example.com/new-mexico-flowchart.png",
+    "longitude": -106.6504,
+    "latitude": 35.0844
+  },
+  {
+    "region": "New York",
+    "district": "New York",
+    "city": "New York City",
+    "covered_area": ["Brooklyn", "Queens", "Bronx", "Manhattan"],
+    "status": "active",
+    "flowchart": "https://example.com/new-york-flowchart.png",
+    "longitude": -74.006,
+    "latitude": 40.7128
+  },
+  {
+    "region": "North Carolina",
+    "district": "Mecklenburg",
+    "city": "Charlotte",
+    "covered_area": ["Matthews", "Concord", "Huntersville", "Gastonia"],
+    "status": "active",
+    "flowchart": "https://example.com/north-carolina-flowchart.png",
+    "longitude": -80.8431,
+    "latitude": 35.2271
+  },
+  {
+    "region": "North Dakota",
+    "district": "Cass",
+    "city": "Fargo",
+    "covered_area": ["West Fargo", "Horace", "Moorhead", "Dilworth"],
+    "status": "active",
+    "flowchart": "https://example.com/north-dakota-flowchart.png",
+    "longitude": -96.7898,
+    "latitude": 46.8772
+  },
+  {
+    "region": "Ohio",
+    "district": "Franklin",
+    "city": "Columbus",
+    "covered_area": ["Dublin", "Westerville", "Gahanna", "Hilliard"],
+    "status": "active",
+    "flowchart": "https://example.com/ohio-flowchart.png",
+    "longitude": -83.0007,
+    "latitude": 39.9612
+  },
+  {
+    "region": "Oklahoma",
+    "district": "Oklahoma",
+    "city": "Oklahoma City",
+    "covered_area": ["Edmond", "Norman", "Moore", "Midwest City"],
+    "status": "active",
+    "flowchart": "https://example.com/oklahoma-flowchart.png",
+    "longitude": -97.5164,
+    "latitude": 35.4676
+  },
+  {
+    "region": "Oregon",
+    "district": "Multnomah",
+    "city": "Portland",
+    "covered_area": ["Beaverton", "Gresham", "Tigard", "Lake Oswego"],
+    "status": "active",
+    "flowchart": "https://example.com/oregon-flowchart.png",
+    "longitude": -122.6784,
+    "latitude": 45.5152
+  },
+  {
+    "region": "Pennsylvania",
+    "district": "Philadelphia",
+    "city": "Philadelphia",
+    "covered_area": ["Camden", "Upper Darby", "Chester", "Bensalem"],
+    "status": "active",
+    "flowchart": "https://example.com/pennsylvania-flowchart.png",
+    "longitude": -75.1652,
+    "latitude": 39.9526
+  },
+  {
+    "region": "Rhode Island",
+    "district": "Providence",
+    "city": "Providence",
+    "covered_area": ["Cranston", "Warwick", "Pawtucket", "East Providence"],
+    "status": "active",
+    "flowchart": "https://example.com/rhode-island-flowchart.png",
+    "longitude": -71.4128,
+    "latitude": 41.824
+  },
+  {
+    "region": "South Carolina",
+    "district": "Richland",
+    "city": "Columbia",
+    "covered_area": ["Lexington", "Irmo", "Cayce", "West Columbia"],
+    "status": "active",
+    "flowchart": "https://example.com/south-carolina-flowchart.png",
+    "longitude": -81.0348,
+    "latitude": 34.0007
+  },
+  {
+    "region": "South Dakota",
+    "district": "Minnehaha",
+    "city": "Sioux Falls",
+    "covered_area": ["Brandon", "Harrisburg", "Tea", "Hartford"],
+    "status": "active",
+    "flowchart": "https://example.com/south-dakota-flowchart.png",
+    "longitude": -96.7311,
+    "latitude": 43.5446
+  },
+  {
+    "region": "Tennessee",
+    "district": "Davidson",
+    "city": "Nashville",
+    "covered_area": ["Franklin", "Murfreesboro", "Brentwood", "Hendersonville"],
+    "status": "active",
+    "flowchart": "https://example.com/tennessee-flowchart.png",
+    "longitude": -86.7816,
+    "latitude": 36.1627
+  },
+  {
+    "region": "Texas",
+    "district": "Harris",
+    "city": "Houston",
+    "covered_area": ["Sugar Land", "Katy", "Pasadena", "Pearland"],
+    "status": "active",
+    "flowchart": "https://example.com/texas-flowchart.png",
+    "longitude": -95.3698,
+    "latitude": 29.7604
+  },
+  {
+    "region": "Utah",
+    "district": "Salt Lake",
+    "city": "Salt Lake City",
+    "covered_area": ["West Valley City", "Sandy", "Murray", "Draper"],
+    "status": "active",
+    "flowchart": "https://example.com/utah-flowchart.png",
+    "longitude": -111.891,
+    "latitude": 40.7608
+  },
+  {
+    "region": "Vermont",
+    "district": "Chittenden",
+    "city": "Burlington",
+    "covered_area": ["South Burlington", "Winooski", "Essex", "Colchester"],
+    "status": "active",
+    "flowchart": "https://example.com/vermont-flowchart.png",
+    "longitude": -73.2121,
+    "latitude": 44.4759
+  },
+  {
+    "region": "Virginia",
+    "district": "Fairfax",
+    "city": "Virginia Beach",
+    "covered_area": ["Norfolk", "Chesapeake", "Newport News", "Hampton"],
+    "status": "active",
+    "flowchart": "https://example.com/virginia-flowchart.png",
+    "longitude": -75.978,
+    "latitude": 36.8529
+  },
+  {
+    "region": "Washington",
+    "district": "King",
+    "city": "Seattle",
+    "covered_area": ["Bellevue", "Redmond", "Kirkland", "Renton"],
+    "status": "active",
+    "flowchart": "https://example.com/washington-flowchart.png",
+    "longitude": -122.3321,
+    "latitude": 47.6062
+  },
+  {
+    "region": "West Virginia",
+    "district": "Kanawha",
+    "city": "Charleston",
+    "covered_area": ["South Charleston", "Dunbar", "Nitro", "St. Albans"],
+    "status": "active",
+    "flowchart": "https://example.com/west-virginia-flowchart.png",
+    "longitude": -81.6326,
+    "latitude": 38.3498
+  },
+  {
+    "region": "Wisconsin",
+    "district": "Milwaukee",
+    "city": "Milwaukee",
+    "covered_area": ["Wauwatosa", "West Allis", "Greenfield", "Brookfield"],
+    "status": "active",
+    "flowchart": "https://example.com/wisconsin-flowchart.png",
+    "longitude": -87.9065,
+    "latitude": 43.0389
+  },
+  {
+    "region": "Wyoming",
+    "district": "Laramie",
+    "city": "Cheyenne",
+    "covered_area": ["Laramie", "Wheatland", "Pine Bluffs", "Torrington"],
+    "status": "active",
+    "flowchart": "https://example.com/wyoming-flowchart.png",
+    "longitude": -104.8202,
+    "latitude": 41.1403
+  }
+]
